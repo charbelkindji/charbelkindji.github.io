@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Charbel Kindji",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chabkind@gmail.com",
+    "url": "https://charbelkindji.github.io",
+    "summary": "PhD Student working on generative models with an application on tabular data.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "22 Avenue Pierre Marzin",
+      "postalCode": "22300",
+      "city": "Lannion",
+      "countryCode": "FR",
+      "region": "Britany"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "charbel-kindji",
+        "url": "https://linkedin.com/in/charbel-kindji"
       }
     ]
   },
