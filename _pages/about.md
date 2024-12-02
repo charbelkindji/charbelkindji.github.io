@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year PhD student in University of Rennes working on deep generative models with applications on tabular data. I am doing a CIFRE between Orange Labs in Lannion and IRISA in Rennes. My PhD is jointly supervised by <a href='https://people.irisa.fr/Elisa.Fromont/'>Elisa Fromont</a> (IRISA), <a href='https://scholar.google.fr/citations?user=ERVdiqsAAAAJ&hl=en'>Tanguy Urvoy</a> (Orange) and <a href='https://scholar.google.fr/citations?user=n42dh0cAAAAJ&hl=en'>Lina Maria Rojas Barahona</a> (Orange). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my master's degree in Big Data Decision Making and Machine Learning (now named <a href='https://formations.univ-rennes.fr/parcours/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-parcours'>"Data and Business Intelligence"</a>) from the same university.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed an internship at INRIA (2020) in the DRUID team, where I worked on studying the evolution of science through large graph exploration and natural language processing. I was supervised by <a href='https://fr.linkedin.com/in/mickaël-foursov-024b9353'>Mickaël Foursov</a> and <a href='https://people.irisa.fr/Zoltan.Miklos/'>Zoltan Miklos</a>.
