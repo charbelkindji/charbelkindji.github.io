@@ -47,15 +47,7 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-
-    <!-- Latest posts -->
-    {% comment %}{% if site.latest_posts.enabled %}{% endcomment %}
-      {% comment %}<h2>{% endcomment %}
-        {% comment %}<a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>{% endcomment %}
-      {% comment %}</h2>{% endcomment %}
-      {% comment %}{% include latest_posts.liquid %}{% endcomment %}
-    {% comment %}{% endif %}{% endcomment %}
-
+    
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
