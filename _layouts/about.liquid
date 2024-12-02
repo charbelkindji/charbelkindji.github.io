@@ -49,12 +49,12 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
+    {% comment %}{% if site.latest_posts.enabled %}{% endcomment %}
+      {% comment %}<h2>{% endcomment %}
+        {% comment %}<a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>{% endcomment %}
+      {% comment %}</h2>{% endcomment %}
+      {% comment %}{% include latest_posts.liquid %}{% endcomment %}
+    {% comment %}{% endif %}{% endcomment %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
