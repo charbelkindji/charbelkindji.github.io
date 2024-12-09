@@ -75,38 +75,97 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Rennes, Rennes, France",
+      "location": "Rennes, France",
+      "url": "https://www.univ-rennes.fr/en",
+      "area": "Computer science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-01",
+      "endDate": "2026-01",
+      "courses": ["Tabular data generation with neural networks"]
+    },
+    {
+      "institution": "University of Rennes, Rennes, France",
+      "location": "Rennes, France",
+      "url": "https://formations.univ-rennes.fr/parcours/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-parcours",
+      "area": "Computer science",
+      "studyType": "Bachelor's and master's degrees",
+      "startDate": "2019-09",
+      "endDate": "2022-09",
+      "courses": ["Training professionals to lead large-scale projects at the intersection of business management and IT, leveraging databases and big data technologies."]
+    },
+    {
+      "institution": "National School of Applied Economics and Management, Cotonou, Benin",
+      "location": "Cotonou, Benin",
+      "url": "https://eneam.uac.bj",
+      "area": "Computer science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2014-09",
+      "endDate": "2017-09",
+      "courses": ["Training professionals in software development and management, focusing on designing, implementing, and overseeing IT solutions for business operations.."]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Under the Hood of Tabular Data Generation Models: Benchmarks with Extensive Tuning\n",
+      "publisher": "ArXiv",
+      "releaseDate": "2024-06",
+      "url": "https://hal.science/hal-04612244v3",
+      "summary": "Conducted an extensive benchmark of generative models for tabular data, optimizing hyperparameters, feature encodings, and architectures across 16 datasets, demonstrating the importance of dataset-specific tuning and confirming the competitive performance of diffusion-based models under constrained resources."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Big Data environment",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Spark",
+        "Neo4j",
+        "MapReduce",
+        "OLAP",
+        "Pentaho Data Integration"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Deep generative modeling",
+        "Machine learning - Deep learning"
+      ]
+    },
+    {
+      "name": "Languages / Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Java",
+        "LaTeX",
+        "HTML/CSS",
+        "Sass",
+        "PHP (Symfony / Laravel)",
+        "Javascript",
+        "JQuery",
+        "AJAX",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MySql",
+        "SQLite",
+        "Oracle",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Source code manager",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Github",
+        "Gitlab"
       ]
     }
   ],
@@ -134,16 +193,25 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "Photography",
+      "icon": "fa-solid fa-camera-retro",
+      "keywords": ["<a href='https://www.instagram.com/charbel.kindji/?hl=fr'>Instagram photo account</a>"
       ]
+    },
+    {
+      "name": "Reading",
+      "icon": "fa-solid fa-book",
+      "keywords": [""]
+    },
+    {
+      "name": "Video games",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": [""]
+    },
+    {
+      "name": "Manga",
+      "icon": "fa-solid fa-star-half-full ",
+      "keywords": [""]
     }
   ]
 }
