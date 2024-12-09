@@ -210,7 +210,7 @@
     },
     {
       "name": "Manga",
-      "icon": "fa-solid fa-star-half-full ",
+      "icon": "fa-solid fa-star-half-o",
       "keywords": [""]
     }
   ]
