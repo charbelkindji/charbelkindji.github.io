@@ -23,6 +23,15 @@
   },
   "work": [
     {
+      "name": "Orange Labs / INRIA - IRISA",
+      "position": "PhD Student",
+      "url": "https://www.orange.com/en",
+      "startDate": "2023-01",
+      "endDate": "2026-01",
+      "summary": "PhD program in collaboration with Orange Innovation Labs and IRISA.",
+      "highlights": ["Neural networks applied to tabular data."]
+    },
+    {
       "name": "Kurmi Software",
       "position": "Work-study program",
       "url": "https://kurmi-software.com",
@@ -44,6 +53,22 @@
       "highlights": [
         "Study of the evolution of science: exploration of large graphs and Natural Language Processing (NLP).",
         "Use of the IGRIDA computational grid for experiments."
+      ]
+    },
+    {
+      "name": "Machine Intelligence For You (MIFY)",
+      "position": "Artificial intelligence intern, then technical management assistant.",
+      "url": "https://fr.linkedin.com/company/mify?trk=public_profile_experience-item_result-card_image-click",
+      "startDate": "2018-12",
+      "endDate": "2019-07",
+      "summary": "Post-graduate work experience in machine learning.",
+      "highlights": [
+        "Assistant in a training session in the company SUNU Assurances on the software Microsoft Excel.",
+        "Data recovery from a graphics tablet and export to feed a machine learning algorithm.",
+        "Preparation of administrative documents for calls for tender.",
+        "Brainstorming sessions and team coordination.",
+        "Improved natural referencing and optimized page loading of the company’s website.",
+        "Training in machine learning."
       ]
     }
 
