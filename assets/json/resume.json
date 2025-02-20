@@ -108,7 +108,7 @@
   "publications": [
     {
       "name": "Cross-table Synthetic Tabular Data Detection\n\n",
-      "publisher": "Proceedings of the 1stWorkshop on GenAI Content Detection (GenAIDetect)\n",
+      "publisher": "Proceedings of the 1st Workshop on GenAI Content Detection (GenAIDetect)\n",
       "releaseDate": "2025-01",
       "url": "https://aclanthology.org/2025.genaidetect-1.5.pdf",
       "summary": "Developed baseline models for synthetic tabular data detection with a cross-table shift (i.e deploying on unseen tables)."
