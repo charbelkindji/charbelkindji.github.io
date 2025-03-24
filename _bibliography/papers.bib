@@ -15,7 +15,6 @@
   HAL_ID = {hal-04970770},
   HAL_VERSION = {v1},
   abstract={Detecting synthetic tabular data is essential to prevent the distribution of false or manipulated datasets that could compromise data-driven decision-making. This study explores whether synthetic tabular data can be reliably identified across different tables. This challenge is unique to tabular data, where structures (such as number of columns, data types, and formats) can vary widely from one table to another. We propose four table-agnostic detectors combined with simple preprocessing schemes that we evaluate on six evaluation protocols, with different levels of "wildness". Our results show that cross-table learning on a restricted set of tables is possible even with naive preprocessing schemes. They confirm however that cross-table transfer (i.e. deployment on a table that has not been seen before) is challenging. This suggests that sophisticated encoding schemes are required to handle this problem.}
-  preview={encodings.PNG}
   selected={true},
 }
 
@@ -33,7 +32,6 @@
     pages = "78--84",
     abstract={Detecting synthetic tabular data is essential to prevent the distribution of false or manipulated datasets that could compromise data-driven decision-making. This study explores whether synthetic tabular data can be reliably identified "in the wild"-meaning across different generators, domains, and table formats. This challenge is unique to tabular data, where structures (such as number of columns, data types, and formats) can vary widely from one table to another. We propose three cross-table baseline detectors and four distinct evaluation protocols, each corresponding to a different level of "wildness". Our very preliminary results confirm that cross-table adaptation is a challenging task.}
     slides={https://genai-content-detection.gitlab.io/assets/presentations/29_Cross_Table_Tab_Data_Detection.pdf}
-    preview={cross_table.PNG}
 }
 @unpublished{kindji:hal-04612244,
   abbr={arXiv},
@@ -47,6 +45,5 @@
   HAL_ID = {hal-04612244},
   HAL_VERSION = {v3},
   abstract={The ability to train generative models that produce realistic, safe and useful tabular data is essential for data privacy, imputation, oversampling, explainability or simulation. However, generating tabular data is not straightforward due to its heterogeneity, non-smooth distributions, complex dependencies and imbalanced categorical features. Although diverse methods have been proposed in the literature, there is a need for a unified evaluation, under the same conditions, on a variety of datasets. This study addresses this need by fully considering the optimization of: hyperparameters, feature encodings, and architectures. We investigate the impact of dataset-specific tuning on five recent model families for tabular data generation through an extensive benchmark on 16 datasets. These datasets vary in terms of size (an average of 80,000 rows), data types, and domains. We also propose a reduced search space for each model that allows for quick optimization, achieving nearly equivalent performance at a significantly lower cost. Our benchmark demonstrates that, for most models, large-scale dataset-specific tuning substantially improves performance compared to the original configurations. Furthermore, we confirm that diffusion-based models generally outperform other models on tabular data. However, this advantage is not significant when the entire tuning and training process is restricted to the same GPU budget.}
-  preview={ray_tune_loop.png}
   selected={true},
 }
