@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: Charbel KINDJI - AI/ML Researcher & Data Scientist
+description: My journey - AI/ML Researcher & Data Scientist
 toc:
   sidebar: left
 ---
