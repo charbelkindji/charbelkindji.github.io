@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.orange.com/en'>Orange Innovation</a> / <a href='https://team.inria.fr/lacodam/fr/'>INRIA</a>. Campus de Beaulieu, 263 Av. Général Leclerc, 35042 Rennes
+subtitle: <a href='https://www.orange.com/en'>Orange Innovation</a> / <a href='https://team.inria.fr/malt/'>INRIA - MALT Team</a>. Campus de Beaulieu, 263 Av. Général Leclerc, 35042 Rennes
 
 profile:
   align: right
