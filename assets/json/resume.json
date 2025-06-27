@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Charbel Kindji",
-    "label": "PhD Student",
+    "label": "PhD Candidate",
     "image": "",
     "email": "chabkind [ at ] gmail [ dot ] com",
     "url": "https://charbelkindji.github.io",
-    "summary": "PhD candidate working on generative models with an application on tabular data.",
+    "summary": "PhD candidate working on generative modeling with an application on tabular data.",
     "location": {
       "address": "22 Avenue Pierre Marzin",
       "postalCode": "22300",
