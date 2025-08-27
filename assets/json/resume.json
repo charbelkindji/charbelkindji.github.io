@@ -107,10 +107,9 @@
   ],
   "publications": [
     {
-      "name": "Datum-wise Transformer for Synthetic Tabular Data Detection in the Wild\n\n",
+      "name": "Robust Detection of Synthetic Tabular Data under Schema Variability\n\n",
       "publisher": "ArXiv Preprint",
       "releaseDate": "2025-04",
-      "url": "https://hal.science/hal-05012441v1/file/paper.pdf",
       "summary": "Proposed a novel detection method for AI-generated tabular data, employing state-of-the-art generative models."
     },
     {
@@ -128,10 +127,9 @@
       "summary": "Developed baseline models for synthetic tabular data detection with a cross-table shift (i.e deploying on unseen tables)."
     },
     {
-      "name": "Under the Hood of Tabular Data Generation Models: Benchmarks with Extensive Tuning\n",
-      "publisher": "ArXiv Preprint",
+      "name": "Tabular Data Generation Models: An In-Depth Survey and Performance Benchmarks with Extensive Tuning\n",
+      "publisher": "Neurocomputing Journal",
       "releaseDate": "2024-06",
-      "url": "https://hal.science/hal-04612244v3",
       "summary": "Conducted an extensive benchmark of generative models for tabular data, optimizing hyperparameters, feature encodings, and architectures across 16 datasets, demonstrating the importance of dataset-specific tuning and confirming the competitive performance of diffusion-based models under constrained resources."
     }
   ],
