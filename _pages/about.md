@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD student in University of Rennes working on deep generative models with applications on tabular data. I am doing a CIFRE between Orange Labs in Lannion and IRISA in Rennes. My PhD is jointly supervised by <a href='https://people.irisa.fr/Elisa.Fromont/'>Elisa Fromont</a> (IRISA), <a href='https://scholar.google.fr/citations?user=ERVdiqsAAAAJ&hl=en'>Tanguy Urvoy</a> (Orange) and <a href='https://scholar.google.fr/citations?user=n42dh0cAAAAJ&hl=en'>Lina Maria Rojas Barahona</a> (Orange). 
+I recently completed my PhD at the University of Rennes, where I worked on deep generative models with applications on tabular data. My research was conducted as a CIFRE between Orange Labs in Lannion and IRISA in Rennes, under the supervision of <a href='https://people.irisa.fr/Elisa.Fromont/'>Elisa Fromont</a> (IRISA), <a href='https://scholar.google.fr/citations?user=ERVdiqsAAAAJ&hl=en'>Tanguy Urvoy</a> (Orange) and <a href='https://scholar.google.fr/citations?user=n42dh0cAAAAJ&hl=en'>Lina Maria Rojas Barahona</a> (Orange).
 
 I obtained my master's degree in Big Data Decision Making and Machine Learning (now named <a href='https://formations.univ-rennes.fr/parcours/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-parcours'>"DAta and Business Intelligence" - DABI</a>) from the same university.
 
